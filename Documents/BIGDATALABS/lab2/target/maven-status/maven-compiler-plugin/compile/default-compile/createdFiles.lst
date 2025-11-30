@@ -1,0 +1,4 @@
+edu\supmti\hadoop\Main.class
+WordCount.class
+TokenizerMapper.class
+IntSumReducer.class
